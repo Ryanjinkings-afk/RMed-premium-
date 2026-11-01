@@ -1,0 +1,13 @@
+RMed v11 — base funcional expandida
+
+1. Extraia o ZIP.
+2. Envie o conteúdo da pasta RMed_BASE_FUNCIONAL para a raiz do repositório GitHub Pages, substituindo os arquivos anteriores.
+3. Faça commit e aguarde a publicação.
+4. No iPhone, feche e reabra o Safari; se a versão antiga persistir, atualize a página. O service worker foi atualizado para v11.
+
+Novidades desta versão:
+- Calculadora de dose por peso (mg/kg/dose e mg/kg/dia → mg e mL por dose).
+- Balanço hídrico de 24 horas (PI, DD, DH, LI, LE e BH).
+- Tradução PT/ES dos novos recursos.
+
+Material educacional. As calculadoras realizam operações matemáticas e não validam a indicação nem substituem protocolos clínicos atualizados.

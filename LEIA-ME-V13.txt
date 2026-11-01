@@ -1,0 +1,16 @@
+RMed Premium v13 — pacote de expansão educacional
+
+Conteúdo incluído:
+- 150 temas estruturados de estudo em seis áreas.
+- 150 questões autorais em formato de múltipla escolha, com gabarito e comentário.
+- 150 casos clínicos autorais com decisão, discussão e checklist.
+- Ícone Premium com detalhe dourado.
+- Navegação Biblioteca Premium e filtros por área/busca.
+
+Base pedagógica: matriz e provas públicas do INEP/Revalida. Os itens são autorais e não são transcrições de provas oficiais.
+
+ATENÇÃO: este conteúdo é educacional e requer revisão médica/docente independente antes de ser usado como produto assistencial ou fonte de prescrição. A biblioteca não substitui protocolos atualizados. A conta continua local; login seguro, sincronização, planos, cobrança e validação de assinatura não foram implementados nesta versão.
+
+Fontes oficiais para conferência:
+https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos
+https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida

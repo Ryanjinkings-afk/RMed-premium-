@@ -1,0 +1,9 @@
+RMed v10 — versão educacional sem assinatura
+
+1. Extraia o ZIP.
+2. Envie o conteúdo da pasta RMed_v10 para a raiz do repositório GitHub Pages, substituindo os arquivos anteriores.
+3. Faça commit e aguarde a publicação.
+4. No iPhone, feche e reabra o Safari; se a versão antiga persistir, remova o app da tela inicial e adicione novamente após atualizar a página.
+
+Inclui banco expandido de questões e casos clínicos em português e espanhol.
+Material educacional; confirme sempre protocolos, doses, contraindicações e apresentações locais.
